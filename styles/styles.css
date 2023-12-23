@@ -40,3 +40,12 @@
   color: white;
   margin-left: 350px;
 }
+.landing{
+  background-color: black;
+  height: 100vh;
+  color: white;
+  text-align: center;
+}
+h1{
+  padding-top:50px;
+}
