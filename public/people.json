@@ -1,0 +1,14 @@
+[
+    { "id": 1, "name": "Dipa", "address": "PKR", "phoneNumber": "111-222-3331" },
+    { "id": 2, "name": "Mina", "address": "BTM", "phoneNumber": "111-222-3332" },
+    { "id": 3, "name": "Sita", "address": "Japan", "phoneNumber": "111-222-3333" },
+    { "id": 4, "name": "Hari", "address": "USA", "phoneNumber": "111-222-3334" },
+    { "id": 5, "name": "Gita", "address": "Korea", "phoneNumber": "111-222-3335" },
+    { "id": 6, "name": "Nima", "address": "HK", "phoneNumber": "111-222-3336" },
+    { "id": 7, "name": "Namuna", "address": "UK", "phoneNumber": "111-222-3337" },
+    { "id": 8, "name": "Prinsa", "address": "USA", "phoneNumber": "111-222-3338" },
+    { "id": 9, "name": "Ram", "address": "India", "phoneNumber": "111-222-3339" },
+    { "id": 10, "name": "Shiva", "address": "Pakistan", "phoneNumber": "111-222-3340" }
+
+  ]
+  
